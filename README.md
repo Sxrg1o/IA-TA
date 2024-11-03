@@ -1,2 +1,3 @@
-# IA-TA
-Integración de Técnicas de Machine Learning para la Predicción y Análisis de la contaminación del Aire en Lima metropolitana
+# Integración de Técnicas de Machine Learning para la Predicción y Análisis de la contaminación del Aire en Lima metropolitana
+
+El presente trabajo aborda la problemática de la contaminación del aire en diversos distritos de Lima, Perú, donde la alta densidad vehicular, la actividad industrial y la quema de residuos contribuyen a altos niveles de partículas en suspensión y gases tóxicos. El objetivo principal fue desarrollar un modelo predictivo de la calidad del aire utilizando técnicas de machine learning como árboles de decisión, regresión y análisis de componentes principales (PCA) para obtener predicciones precisas y analizar las dinámicas entre contaminantes y factores meteorológicos.
